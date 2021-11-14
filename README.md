@@ -1,0 +1,1 @@
+# HackerRank_SQL_Easy_Solutions
