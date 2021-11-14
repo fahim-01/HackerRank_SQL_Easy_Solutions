@@ -1,0 +1,15 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+
+select distinct city from station
+where(not(city like 'a%' or city like 'e%' or city like 'i%'or city like 'o%'or city like 'u%'))
+                               or
+(not(city like '%a' or city  like '%e' or city  like '%i'or city  like '%o'or city  like '%u'))
+order by city;

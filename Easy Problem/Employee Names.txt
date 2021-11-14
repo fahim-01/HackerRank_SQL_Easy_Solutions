@@ -1,0 +1,11 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+select name from Employee 
+order by name ASC;

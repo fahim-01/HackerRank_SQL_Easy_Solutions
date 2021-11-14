@@ -1,0 +1,11 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+select * from city
+where population >100000 and countrycode = "Usa";

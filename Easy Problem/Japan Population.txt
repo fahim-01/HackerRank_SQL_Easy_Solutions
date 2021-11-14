@@ -1,0 +1,11 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+
+Select sum(population) from city where countrycode = "JPN";

@@ -1,0 +1,11 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+select distinct city from station
+where id % 2=0;

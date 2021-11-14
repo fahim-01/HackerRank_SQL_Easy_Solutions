@@ -1,0 +1,11 @@
+Use MySQL:
+                
+
+
+        Author By: Fahim Ur Rashid
+                   fahim.sust.edu@gmail.com
+
+Solution:
+
+SELECT MAX(SALARY*MONTHS), COUNT(*) FROM EMPLOYEE
+WHERE (SALARY*MONTHS) = (SELECT MAX(SALARY*MONTHS) FROM EMPLOYEE)
