@@ -1,3 +1,3 @@
-HackerRank Easy SQL solutions
-Use MySQL 
-Basic query.
+**HackerRank Easy SQL solutions**/br
+**Use MySQL **/br
+**Basic query.**
